@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+01,Ceturb-GV,http://www.ceturb.es.gov.br/,America/Sao_Paulo,pt_BR,0800 039 1517,http://www.gvbus.com.br/site/index.php?id=17
+02,Setran Vitória,http://www.vitoria.es.gov.br/,America/Sao_Paulo,pt_BR,156,http://www.vitoria.es.gov.br/setran.php?pagina=tarifas
